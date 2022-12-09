@@ -16,7 +16,7 @@ class Program
 
         double counter = 0;
 
-        while (diviser >= Math.Abs(secondNumber)) 
+        while (diviser >= Math.Abs(secondNumber))
         {
         diviser = diviser - Math.Abs(secondNumber
         );
